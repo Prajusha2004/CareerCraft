@@ -1,4 +1,5 @@
-🚀 CareerCraft – AI Mock Interview Agent
+**🚀 CareerCraft – AI Mock Interview Agent**
+
 🎯 CareerCraft is an AI-powered mock interview platform designed to help candidates practice interviews, improve communication skills, and receive intelligent feedback on their answers.
 
 The system simulates real interview scenarios and evaluates responses using modern AI techniques such as Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG).
